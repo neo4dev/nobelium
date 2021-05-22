@@ -3,7 +3,7 @@ const BLOG = {
   author: 'Hawk',
   email: 'neo4pm@qq.com',
   link: 'https://nobelium.vercel.app',
-  description: 'This gonna be an awesome website.',
+  description: '产品经理的随笔',
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
