@@ -2,7 +2,7 @@ const BLOG = {
   title: '增长浩克',
   author: 'Hawk',
   email: 'neo4pm@qq.com',
-  link: 'https://hawkblog.vercel.app/',
+  link: 'https://hawkblog.vercel.app',
   description: '产品经理的随笔',
   lang: 'zh-CN',
   appearance: 'auto', // ['light', 'dark', 'auto'],
